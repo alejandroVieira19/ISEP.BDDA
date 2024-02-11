@@ -1,0 +1,21 @@
+
+Resumo das instruções para o Sprint 3 de Base de Dados:
+
+
+1.Antes de realizar qualquer inserção na base de dados, certifique-se de executar o modelo físico.
+
+2. Compilar tudo que se encontra na pasta Auxiliares.
+
+3.Compilar Todas as Pastas Exceto usbd30.
+
+4.Executar os inserts que se encontram na pasta USBD29.
+
+5.Executar Bloco no ficheiro inserir_operacoes que se encontra na pasta USBD30.
+
+6.Executar Trigger no ficheiro USBD30.sql.
+
+7.Divirta-se.
+
+
+
+
